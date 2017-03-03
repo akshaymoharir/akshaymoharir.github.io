@@ -2099,8 +2099,8 @@ button.mfp-arrow:active {
 .circle-chart .item > .percent {
   position: absolute;
   top: 50%;
-  left: 50%;
-  width: 40px;
+  left: 37%;/*Original Value 50*//*Updated by Akshay*/
+  width: 90px;/*40*//*Updated by Akshay*/
   height: 40px;
   line-height: 40px;
   margin-top: -40px;
